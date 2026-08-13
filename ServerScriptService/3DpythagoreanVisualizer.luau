@@ -1,3 +1,5 @@
+--Connected Discord-GitHub
+--Roblox: @RehizVI | Discord: @Kod4e
 ---// Services //---
 local runService = game:GetService("RunService")
 local collectionService = game:GetService("CollectionService")
